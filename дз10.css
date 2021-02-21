@@ -1,0 +1,76 @@
+*{font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+	margin:0;
+}
+.block1{
+	height:10vh;
+	background-color:white;
+}
+.img1{
+	height:90vh;
+	background-image:url(https://i.pinimg.com/564x/bd/66/1c/bd661c9893414a5939df4501a6e8529b.jpg);
+    background-size:cover;
+    background-position:center
+}
+.tf{
+	height:90vh;
+	background-color:#81899cbb;
+}  
+.icon{
+	padding-left:255px;
+    padding-top:25px;
+    float:left;
+
+}
+.smallStr{
+    float:left;
+	padding-left:400px;
+    font-size:35px;
+    padding-left:25px;
+    padding-top:25px;
+}
+.h1STRICT{
+	text-align:center;
+	font-size:120px;
+	color:white;
+	padding-top:150px;
+}
+.line{
+    width:600px;
+	height:2px;
+	background-color:#2da1fa;
+	padding-left:700px;
+	margin:auto;
+}
+.text{
+	text-align:center;
+	font-size:25px;
+	color:white;
+	padding-top:24px;
+}
+.b1{
+	width:200px;
+	height:40px;
+    margin:auto;
+    padding-top:20px;
+}
+.Cta{
+	width:200px;
+	height:40px;
+    border:2px solid #2da1fa;
+    border-radius:2px;
+	background-color:Transparent;
+	font-size:22px;
+	color:white;
+	text-align:center
+}
+.Cta:hover{
+	border:2px solid #85caff;
+}
+.strelka{
+	margin:auto;
+    padding-top:15px;
+    padding-left:950px;
+    margin-top:220px; 
+}
